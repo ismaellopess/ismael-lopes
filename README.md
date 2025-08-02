@@ -13,6 +13,8 @@ para me tornar um profissional cada vez mais completo.
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](ismael.lopes_santos@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ismael-lopes-b2405a202/)
 
+📱 WhatsApp: [Clique aqui](https://wa.me/551159859924)  
+
 ### 🛠️ Familiaridade com as Tecnilogias 
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
