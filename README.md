@@ -1,6 +1,11 @@
-# Ismael Lopes Rocha Dos Santos
+<h1 align="center">👋 Olá, eu sou o Ismael Lopes</h1>
 
-Estudante de Analise e Desenvolvimento de Sistemas , buscando me desenvolver.
+
+### 💼 Sobre mim
+
+Estudante da área de programação, com foco em aprimorar minhas habilidades,  atualmente
+cursando Análise e Desenvolvimento de Sistemas estou em busca  constante de conhecimentos
+para me tornar um profissional cada vez mais completo.
 
 ### Conecte-se comigo
 
@@ -8,11 +13,9 @@ Estudante de Analise e Desenvolvimento de Sistemas , buscando me desenvolver.
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](ismael.lopes_santos@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ismael-lopes-b2405a202/)
 
-### Habilidades Básicas 
+### 🛠️ Familiaridade com as Tecnilogias 
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
-
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
